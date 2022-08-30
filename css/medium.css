@@ -1,0 +1,31 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+
+.bg-yellow{
+    background-color: #ffc017; 
+}
+.border-bottom-dark{
+    border-bottom: 1px solid #414141
+}
+
+#OzelBtn{
+    width: 200px;
+    color: white;
+    background-color:black ;
+    border-radius: 20px;
+}
+#OzelBtn:hover{
+    background-color: #414141;
+}
+
+
+.aside-button li{
+    margin-bottom: 5px;
+}
+
+.Profil-pic{
+    border-radius: 20px;
+}
+
